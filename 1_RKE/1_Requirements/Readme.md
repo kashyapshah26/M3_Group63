@@ -30,9 +30,6 @@ Better Security - Traditional keys are easy to lose, can be copied easily, and a
 ## **HOW**
 The keyless remote is actually a radio. This data stream contains command and for security, rolling codes. The remote keyless system's receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU.
 
-## THREAT
-* Anyone who has access to key can unlock the car.
-* if anyone develop the application on mobile to control the open and closing sytem then this method will be outdated.
 
 
 # Requirements
