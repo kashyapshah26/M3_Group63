@@ -1,16 +1,34 @@
-# REMOTE KEYLESS ENTRY ( RKE )
-## Introduction
-Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.
+# Description
 
-RKE transmission requires two components - a transmitter and a receiver. 
+- Remote Keyless entry systems allow you to unlock and lock the doors to your vehicle without using a key. It is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock.
 
-•	Transmitter - RKE key fob, other ID device with RKE integrated 
+# Identifying features
 
-•	Receiver - Body Control ECU, other ECU with integrated RKE 
+- Car should get **LOCK** when the Button is pressed **ONCE**
+- Car should get **UNLOCK** when the Button is pressed **TWICE**
+- Car should get **ACTIVATION/DEACTIVATION** alarm when the Button is pressed **THREE** times
+- Car should get **APPROACH LIGHT** when the Button is pressed **FOUR** times
 
-RKE operates by broadcasting radio waves on a particular frequency unidirectionally. 
 
-RKE systems implement encryption and rolling code algorithms to prevent car thieves from intercepting and spoofing the telegrams. 
+# S.W.O.T analysis
+![swot](https://user-images.githubusercontent.com/98817564/157737145-7f2770da-6dd0-4426-9f03-c9e32d54b407.png)
+
+# 4W's & 1H
+
+## **WHAT** 
+Remote Wireless Key for Car and it is a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically by proximity.
+## **WHERE**
+Inside and Outside car
+## **WHEN**
+When we need to lock, unlock doors and identify car
+## **WHY**
+Better Security - Traditional keys are easy to lose, can be copied easily, and are simply outdated when it comes to modern security locks. Keyless entry systems require every authorized user to have a unique credential that provides them access to the building.
+## **HOW**
+The keyless remote is actually a radio. This data stream contains command and for security, rolling codes. The remote keyless system's receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU.
+
+# Requirements
+
+
 
 ## High Level Requirements
 |ID|Description|
@@ -34,32 +52,4 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 ||LLR_02|All led shall get turned on in clockwise manner|
 |HLR_04|LLR_01|System shall print message "Approach Light"|              
 ||LLR_02|All led shall get turned on in anti-clockwise manner|
-
-
-
-
-
-
-
-# SWOT Analysis
-## Strength:-
-1) Remote key is very useful in  situations where car lock is not opening Physically.
-2) Broad amount of sensor data available on vehicle or driver status.
-3) Convinient & Time saving.
-
-## Weakness:-
-1) Range is limited for example 50 feet from the vehicle
-2) it is totally  Dependable on Battery.
-3) Still missing data communication and data exchange standards and unsolved tasks regarding driver state sensing.
-4) Sensing information is not available or sensing tasks have to be passed to e.g. environment perception or connectivity.
-5) Use of Single switch for multiple operations might be confusing.
-
-##  Opportunities:-
-1) Broad amount of sensor data can be remotely accessed (e.g. tire pressure, engine diagnostics, fatigue monitoring).
-2) Existing sensor types and set-ups could be used for advanced connected and automated features.
-
-##  Threats:-
-1) Anyone who has access to key can unlock the car.
-2) if anyone develop the application on mobile to control the open and closing sytem then this method will be outdated.
-
 
