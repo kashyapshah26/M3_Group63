@@ -60,6 +60,6 @@ RKE systems implement encryption and rolling code algorithms to prevent car thie
 
 ##  Threats:-
 1) Anyone who has access to key can unlock the car.
-2)if anyone develop the application on mobile to control the open and closing sytem then this method will be outdated.
+2) if anyone develop the application on mobile to control the open and closing sytem then this method will be outdated.
 
 
