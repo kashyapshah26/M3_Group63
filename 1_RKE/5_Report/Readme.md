@@ -1,1 +1,32 @@
 
+# REMOTE KEYLESS ENTRY ( RKE )
+## Description
+
+- Remote Keyless entry systems allow you to unlock and lock the doors to your vehicle without using a key. It is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock.
+
+# Identifying features
+
+- Car should get **LOCK** when the Button is pressed **ONCE**
+- Car should get **UNLOCK** when the Button is pressed **TWICE**
+- Car should get **ACTIVATION/DEACTIVATION** alarm when the Button is pressed **THREE** times
+- Car should get **APPROACH LIGHT** when the Button is pressed **FOUR** times
+
+
+# S.W.O.T analysis
+![swot](https://user-images.githubusercontent.com/98817564/157737145-7f2770da-6dd0-4426-9f03-c9e32d54b407.png)
+
+# 5W's & 1H
+
+## WHO
+ A person having car can access the this technology 
+## **WHAT** 
+Remote Wireless Key for Car and it is a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically by proximity.
+## **WHERE**
+* Inside and Outside car
+* At particular range for instance 50 to 60 feet far from the vehicle.
+## **WHEN**
+When we need to lock, unlock doors and identify car
+## **WHY**
+Better Security - Traditional keys are easy to lose, can be copied easily, and are simply outdated when it comes to modern security locks. Keyless entry systems require every authorized user to have a unique credential that provides them access to the building.
+## **HOW**
+The keyless remote is actually a radio. This data stream contains command and for security, rolling codes. The remote keyless system's receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU.
