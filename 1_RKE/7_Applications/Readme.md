@@ -1,4 +1,4 @@
-# Applications
+# Applications (FUTURE SCOPE)
 
 - This project involves a lot of home automation and has a wide scope in future.
 - This project can be used in the control of fans in houses, schools, offices, and so on.
