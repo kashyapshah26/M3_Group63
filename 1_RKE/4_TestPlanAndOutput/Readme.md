@@ -11,8 +11,8 @@
 ---
 # 1.2 LOW LEVEL TEST PLAN
 
-| Test ID | Description | Input | Expected output | Actual Output | Passed Or Not |
-| --- | --- | --- | --- | --- | --- |
+
+
 
 | Test ID (for LED)| Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
