@@ -1,1 +1,2 @@
-![Structural Diagram](https://user-images.githubusercontent.com/98817564/157859669-91f720e4-cef3-489d-8a72-07ef7af0ae31.png)
+# Highlevel Structural Diagram
+![Structural Diagram](https://user-images.githubusercontent.com/98817564/157861092-9002d1c1-a903-4ecc-bfed-e66655ff6f1d.png)
