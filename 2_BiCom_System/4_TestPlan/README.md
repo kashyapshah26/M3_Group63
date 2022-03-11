@@ -1,6 +1,6 @@
 # Test Plan And Output
 
-# 1.1 HIGH LEVEL
+# 1.1 HIGH LEVEL TEST PLAN
 
 | Test ID | Description | Input | Expected output | Actual Output | 
 | --- | --- | --- | --- | --- | 
@@ -11,13 +11,13 @@
 
 ---
 
-# 1.2 LOW LEVEL
+# 1.2 LOW LEVEL TEST PLAN
 
 
 
-| Test ID (for LED)| Description | Input | Expected output | Actual Output | passed/not |
+| Test ID (for LED)| Description | Input | Expected output | Actual Output | Passed/Fail|
 | --- | --- | --- | --- | --- | --- |
-| LL_TP01 | Verify the Window Status | User should press the Button once |  LED's Should be ON | LED's are ON |  |
-| LL_TP02 | Verify the Alaram Status | User should press the Button Twice |  LED's Should be OFF |  LED's are OFF |  |
-| LL_TP03 | Verify the Car Battery Status | User should press the Button Thrice | LED ON Should be in Clockwise Rotation | LED's ON are in Clockwise Rotation | | 
-| LL_TP04 | Verify the approach Door Status | User should press the Four Times |LED ON Should be in Anticlockwise Rotation | LED's ON are in Anticlockwise Rotation |  |
+| LL_TP01 | Verify the Window Status | User should press the Button once |  LED's Should be ON | LED's are ON | Passed |
+| LL_TP02 | Verify the Alaram Status | User should press the Button Twice |  LED's Should be OFF |  LED's are OFF | Passed |
+| LL_TP03 | Verify the Car Battery Status | User should press the Button Thrice | LED ON Should be in Clockwise Rotation | LED's ON are in Clockwise Rotation | Passed| 
+| LL_TP04 | Verify the approach Door Status | User should press the Four Times |LED ON Should be in Anticlockwise Rotation | LED's ON are in Anticlockwise Rotation | Passed |
