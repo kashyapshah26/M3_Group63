@@ -27,11 +27,13 @@ BiCom System for Car is a system that uses a 40-bit rolling code that creats an 
 * when we need to check the status of the door , alarm , car battery and window.
 
 ## **WHY**
-*Better Security - Traditional keys are easy to lose, can be copied easily, and are simply outdated when it comes to modern security locks. 
-*BiCom System systems require every authorized user to have a unique credential that provides them access to the building.
+* Better Security - Traditional keys are easy to lose, can be copied easily, and are simply outdated when it comes to modern security locks. 
+* BiCom System systems require every authorized user to have a unique credential that provides them access to the building.
 
 ## **HOW**
-The keyless remote is actually a radio. This data stream contains command and for security, rolling codes. The remote keyless system's receiver in the car captures the RF signal, extracts it and sends the data stream to the CPU.
+* The controller chip in any modern controller uses something called a hopping code or a rolling code to provide security. 
+* For example, it describes a system that uses a 40-bit rolling code. Forty bits provide 240 (about 1 trillion) possible codes.
+
 
 
 # Requirements
@@ -42,3 +44,16 @@ The keyless remote is actually a radio. This data stream contains command and fo
 |HLR 2|	It shall print  THE STATUS OF ALARM IN CAR|
 |HLR 3|	It shall print  THE STATUS OF BATTERY IN CAR|
 |HLR 4|	It shall print  THE STATUS OF DOOR IN CAR|
+
+
+## Low Level Requirements
+|ID|Description|
+|------|------|
+| LLR_01 | If the User presses the Blue Button ONE TIME, All Led should be turned ON |
+| LLR_02 | System shall print message "Window Status" |
+| LLR_03 | If the User presses the Blue Button TWO TIMES, All Led should be turned OFF |       
+| LLR_04 | System shall print message "Alarm Status" |
+| LLR_05 | If the User presses the Blue Button THREE TIMES, All Led should rotate in clockwise direction |              
+| LLR_06 | System shall print message "Car Battery Status" |
+| LLR_07 | If the User presses the Blue Button FOUR TIMES, All Led should rotate in anti-clockwise direction |              
+| LLR_08 | System shall print message "Door Status" |
