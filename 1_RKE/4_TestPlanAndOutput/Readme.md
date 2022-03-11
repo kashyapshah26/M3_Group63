@@ -16,7 +16,7 @@
 
 | Test ID (for LED)| Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
-| LL_TP01 | | User press the Button once |  LED's Should ON | LED's ON |  |
-| LL_TP02 | | User press the Button Twice |  LED's Should OFF |  LED's OFF |  |
-| LL_TP03 |  | User press the Button Thrice | LED ON in Clockwise Rotation | LED ON in Clockwise Rotation | | 
-| LL_TP04 | | User press the Four Times |LED ON in Anticlockwise Rotation | LED ON in  Anticlockwise Rotation |  |
+| LL_TP01 | Verify the lock| User press the Button once |  LED's Should ON | LED's ON |  |
+| LL_TP02 | Verify the Unlock | User press the Button Twice |  LED's Should OFF |  LED's OFF |  |
+| LL_TP03 | Verify the Alarm activated/Deactivated | User press the Button Thrice | LED ON in Clockwise Rotation | LED ON in Clockwise Rotation | | 
+| LL_TP04 | Verify the approach light | User press the Four Times |LED ON in Anticlockwise Rotation | LED ON in  Anticlockwise Rotation |  |
