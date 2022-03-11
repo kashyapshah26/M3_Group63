@@ -9,11 +9,18 @@
 | HL_TP05 | Data Encryption | No of User Clicks | Random Data Should Gets Generated |  Random Data Gets Generated | 
 
 ---
+
+
+
 # 1.2 LOW LEVEL TEST PLAN
 
-| --- | --- | --- | --- | --- |  --- |
-| Test ID (for LED)| Description | Input | Expected output | Actual Output | passed/Fail
-| LL_TP01 | Verify the lock | User press the Button once |  LED's Should ON | LED's ON | Passed  |
-| LL_TP02 | Verify the Unlock | User press the Button Twice |  LED's Should OFF |  LED's OFF | passed  |
-| LL_TP03 | Verify the Alarm activated/Deactivated | User press the Button Thrice | LED ON in Clockwise Rotation | LED ON in Clockwise Rotation | Passed | 
-| LL_TP04 | Verify the approach light | User press the Four Times |LED ON in Anticlockwise Rotation | LED ON in  Anticlockwise Rotation | Passed  |
+
+
+| Test ID (for LED)| Description | Input | Expected output | Actual Output | Passed/Fail |
+| --- | --- | --- | --- | --- | --- |
+| LL_TP01 | Verify the Car Lock | User should press the Button once |  LED's Should be ON | LED's ON | Passed |
+| LL_TP02 | Verify the Car Unlock | User should press the Button Twice |  LED's Should be OFF |  LED's OFF | Passed |
+| LL_TP03 | Verify the Car gets Alarm Activation/Deactivation | User should press the Button Thrice | LED ON Should be in Clockwise Rotation | LED's ON  in Clockwise Rotation | Passed| 
+| LL_TP04 | Verify the approach Light | User should press the Four Times |LED ON Should be in Anticlockwise Rotation | LED's ON  in Anticlockwise Rotation | Passed |
+
+---
