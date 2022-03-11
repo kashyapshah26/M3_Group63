@@ -3,3 +3,4 @@
  ## Batches
 
 [![CI](https://github.com/kashyapshah26/M3_Group63/actions/workflows/main.yml/badge.svg)](https://github.com/kashyapshah26/M3_Group63/actions/workflows/main.yml)
+[![Build](https://github.com/kashyapshah26/M3_Group63/actions/workflows/build.yml/badge.svg)](https://github.com/kashyapshah26/M3_Group63/actions/workflows/build.yml)
