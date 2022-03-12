@@ -21,7 +21,7 @@
 ## **WHAT** 
 Remote Wireless Key for Car and it is a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically by proximity.
 ## **WHERE**
-* Inside and Outside car
+* Inside and Outside the car
 * At particular range for instance 50 to 60 feet far from the vehicle.
 ## **WHEN**
 When we need to lock, unlock doors and identify car
