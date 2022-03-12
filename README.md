@@ -6,7 +6,7 @@
 |----------|-----------|-----------|
 | Kashyap | |   |
 | Riya Kumari | 99007929 | Requirements, Architecture, and TestplanandOutput  for RKE System |
-| Abhishek Yadav | 99007928  | coding and appliction of RKE  |
+| Abhishek Yadav | 99007928  | coding and application of RKE  |
 | Rajeev Ranjan | |   |
 
 # Code Analysis
