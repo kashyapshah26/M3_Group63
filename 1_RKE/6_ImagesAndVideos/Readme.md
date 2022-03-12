@@ -18,4 +18,10 @@
 ## Low Level Structural Diagram
 ![STR](https://user-images.githubusercontent.com/98817564/157860138-4f9d55b9-2f9e-4f09-925d-b1fdbe01769e.png)
 
+# Output
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/98915922/158002888-83594234-7241-41ab-ae4b-07c67aeaaab8.png">
+<img width="949" alt="image" src="https://user-images.githubusercontent.com/98915922/158002917-66f08cbd-8b57-4232-bf7e-441b948610ea.png">
+
+
 
