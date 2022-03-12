@@ -7,7 +7,7 @@
 | Kashyap | 99007926 | Requirements, Architecture, and Testplan for BiCOm System  |
 | Riya Kumari | 99007929 | Requirements, Architecture, TestplanandOutput and Reports for RKE System |
 | Abhishek Yadav | 99007928  | coding and application of RKE  |
-| Rajeev Ranjan | 99007927 | Reports, Images And Applicatiion of both project  |
+| Rajeev Ranjan | 99007927 | Reports, Images And Applicatiion of Bicom System  |
 
 # Code Analysis
 
