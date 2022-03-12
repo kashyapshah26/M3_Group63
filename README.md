@@ -4,10 +4,10 @@
 ## Group Members
 | Name     | PS Number | Work done |
 |----------|-----------|-----------|
-| Kashyap | |   |
+| Kashyap | 99007926 | Requirements, Architecture, and Testplan for BiCOm System  |
 | Riya Kumari | 99007929 | Requirements, Architecture, and TestplanandOutput  for RKE System |
 | Abhishek Yadav | 99007928  | coding and application of RKE  |
-| Rajeev Ranjan | |   |
+| Rajeev Ranjan | | Reports, Images And Applicatiion of both project  |
 
 # Code Analysis
 
